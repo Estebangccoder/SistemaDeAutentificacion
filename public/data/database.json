@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "ad2",
+      "username": "example",
+      "lastName": "example",
+      "email": "example@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "e6f6",
+      "username": "JAIRO",
+      "lastName": "PATERMINA",
+      "email": "EDEGARCIACU@UNAL.EDU.CO",
+      "password": "1234"
+    }
+  ]
+}
